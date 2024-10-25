@@ -1,0 +1,4 @@
+﻿  SimpleFucOne.c
+C:\Users\박승준\source\repos\Project1010\SimpleFucOne.c(5,42): warning C4013: 'squaretwo'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+SimpleFucOne.obj : error LNK2019: squaretwomain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\박승준\source\repos\Project1010\x64\Debug\Project1010.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

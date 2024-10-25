@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uBC15\uC2B9\uC900\\source\\repos\\conceptcheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uBC15\uC2B9\uC900\\Contacts\\Downloads\\hw1_201910158.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B1FF56-18C3-427E-ADDC-FD7ED1CFD158}|conceptcheck.vcxproj|C:\\Users\\\uBC15\uC2B9\uC900\\source\\repos\\conceptcheck\\conceptcheck5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56B1FF56-18C3-427E-ADDC-FD7ED1CFD158}|conceptcheck.vcxproj|solutionrelative:conceptcheck5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw1_201910158.c",
+              "DocumentMoniker": "C:\\Users\\\uBC15\uC2B9\uC900\\Contacts\\Downloads\\hw1_201910158.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\Contacts\\Downloads\\hw1_201910158.c",
+              "ToolTip": "C:\\Users\\\uBC15\uC2B9\uC900\\Contacts\\Downloads\\hw1_201910158.c",
+              "RelativeToolTip": "..\\..\\..\\Contacts\\Downloads\\hw1_201910158.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-17T06:52:02.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "conceptcheck5.c",
+              "DocumentMoniker": "C:\\Users\\\uBC15\uC2B9\uC900\\source\\repos\\conceptcheck\\conceptcheck5.c",
+              "RelativeDocumentMoniker": "conceptcheck5.c",
+              "ToolTip": "C:\\Users\\\uBC15\uC2B9\uC900\\source\\repos\\conceptcheck\\conceptcheck5.c",
+              "RelativeToolTip": "conceptcheck5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-17T06:38:37.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
