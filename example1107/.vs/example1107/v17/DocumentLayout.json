@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uBC15\uC2B9\uC900\\source\\repos\\example1107\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B381FB80-0A1C-4507-99E0-72F1BAF8CD31}|example1107.vcxproj|C:\\Users\\\uBC15\uC2B9\uC900\\source\\repos\\example1107\\hw7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B381FB80-0A1C-4507-99E0-72F1BAF8CD31}|example1107.vcxproj|solutionrelative:hw7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B381FB80-0A1C-4507-99E0-72F1BAF8CD31}|example1107.vcxproj|C:\\Users\\\uBC15\uC2B9\uC900\\source\\repos\\example1107\\pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B381FB80-0A1C-4507-99E0-72F1BAF8CD31}|example1107.vcxproj|solutionrelative:pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hw7.c",
+              "DocumentMoniker": "C:\\Users\\\uBC15\uC2B9\uC900\\source\\repos\\example1107\\hw7.c",
+              "RelativeDocumentMoniker": "hw7.c",
+              "ToolTip": "C:\\Users\\\uBC15\uC2B9\uC900\\source\\repos\\example1107\\hw7.c",
+              "RelativeToolTip": "hw7.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-07T07:46:39.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pointer.c",
+              "DocumentMoniker": "C:\\Users\\\uBC15\uC2B9\uC900\\source\\repos\\example1107\\pointer.c",
+              "RelativeDocumentMoniker": "pointer.c",
+              "ToolTip": "C:\\Users\\\uBC15\uC2B9\uC900\\source\\repos\\example1107\\pointer.c",
+              "RelativeToolTip": "pointer.c",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-07T06:04:03.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
